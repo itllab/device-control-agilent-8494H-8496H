@@ -16,6 +16,6 @@ Control of attenuators Agilent/Keysight 8494H &amp; 8496H
 ![alt text](https://github.com/itllab/device-control-agilent-8494H-8496H/blob/main/img/4.1.png)
 
 + Appearance:
-![alt text](https://github.com/itllab/device-control-agilent-8494H-8496H/blob/main/img/1.3.jpg)
-![alt text](https://github.com/itllab/device-control-agilent-8494H-8496H/blob/main/img/5.2.jpg)
+![alt text](https://github.com/itllab/device-control-agilent-8494H-8496H/blob/main/img/1.3.png)
+![alt text](https://github.com/itllab/device-control-agilent-8494H-8496H/blob/main/img/5.2.png)
 
