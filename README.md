@@ -4,6 +4,9 @@ Control of attenuators Agilent/Keysight 8494H &amp; 8496H
 + Scheme:
 ![alt text](https://github.com/itllab/Raspberry-Pi-Pico-8494H-8496H/blob/main/img/1.1.png)
 
++ Cable soldering:
+![alt text](https://github.com/itllab/Raspberry-Pi-Pico-8494H-8496H/blob/main/img/3.1.png)
+
 + It is possible to implement control through the virtual COM port:
 ![alt text](https://github.com/itllab/Raspberry-Pi-Pico-8494H-8496H/blob/main/img/4.1.png)
 
