@@ -2,7 +2,7 @@
 Control of attenuators Agilent/Keysight 8494H &amp; 8496H
 
 + Scheme:
-![alt text](https://github.com/itllab/Raspberry-Pi-Pico-8494H-8496H/blob/main/img/1.1.png)
+![alt text](https://github.com/itllab/device-control-agilent-8494H-8496H/blob/main/img/1.1.png)
 
 + Decoder logic:
 
