@@ -1,4 +1,4 @@
-## Raspberry Pi Pico + 8494H & 8496H
+## Device control Agilent 8494H & 8496H
 Control of attenuators Agilent/Keysight 8494H &amp; 8496H
 + It is possible to implement control through the interface RS-232
 
