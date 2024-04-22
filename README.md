@@ -4,6 +4,10 @@ Control of attenuators Agilent/Keysight 8494H &amp; 8496H
 + Scheme:
 ![alt text](https://github.com/itllab/Raspberry-Pi-Pico-8494H-8496H/blob/main/img/1.1.png)
 
++ Decoder logic:
+
+![alt text](https://github.com/itllab/Raspberry-Pi-Pico-8494H-8496H/blob/main/img/2.1.png)
+
 + Cable soldering:
 
 ![alt text](https://github.com/itllab/Raspberry-Pi-Pico-8494H-8496H/blob/main/img/3.1.png)
