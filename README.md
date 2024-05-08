@@ -1,5 +1,6 @@
 ## Device control Agilent 8494H & 8496H
 Control of attenuators Agilent/Keysight 8494H &amp; 8496H
+Habr: https://habr.com/ru/articles/812755/
 
 + Scheme:
 ![alt text](https://github.com/itllab/device-control-agilent-8494H-8496H/blob/main/img/1.1.png)
